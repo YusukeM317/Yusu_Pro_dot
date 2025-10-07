@@ -1,6 +1,6 @@
 # dotfiles
 
-M_Ishikawa
+M_Yusuke
 
 macでもFedoraでもCentOSでもDebianでもUbuntuでも。
 事前にzshは必須。
